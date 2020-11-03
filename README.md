@@ -1,5 +1,4 @@
-# MinesweeperAI
-# Implemented MyAi.cpp and MyAi.hpp
+# MinesweeperAI, implemented MyAi.cpp and MyAi.hpp
 
 
 # Rule Of Thumb
